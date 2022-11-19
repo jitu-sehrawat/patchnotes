@@ -1,0 +1,24 @@
+{
+  "name": "@jitu-sehrawat/patchnotes",
+  "version": "0.0.1",
+  "description": "Auto convert git logs into user freiendly patchnotes",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "exit 1",
+    "preversion": "exit 1"
+  },
+  "keywords": [
+    "git",
+    "patchnotes",
+    "changelogs",
+    "changelog",
+    "patchnot"
+  ],
+  "author": "Jitender Sehrawat",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
+}
